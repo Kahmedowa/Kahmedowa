@@ -3,7 +3,7 @@
 
 ### Hi, my name is Kesban 👋
 
-and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
+and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 👩🏼‍💻
 
 
 <div align="center">

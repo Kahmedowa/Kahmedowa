@@ -9,18 +9,13 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 <div align="center">
   <a href ="mailto:k.ahmedowa94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kesban-ahmedova-475305259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+</div> 
+
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kahmedowa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Kahmedowa" /> </p>
+<hr>
 
-<hr>
-<div align="center">
-  <a href="https://github.com/Kahmedowa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kahmedowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahmedowa&layout=compact&langs_count=7&theme=tokyonight">
-</div>
-<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kahmedowa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Kahmedowa" /> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -33,6 +28,12 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 <hr>
+
+<div align="center">
+  <a href="https://github.com/Kahmedowa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kahmedowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahmedowa&layout=compact&langs_count=7&theme=tokyonight">
+</div>
 
 <!--
 **Kahmedowa/Kahmedowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

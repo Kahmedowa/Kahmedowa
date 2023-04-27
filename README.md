@@ -25,11 +25,7 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Skills and Tools:
 
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-<br>
 
 <hr>
 

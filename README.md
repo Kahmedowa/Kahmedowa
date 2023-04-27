@@ -1,8 +1,7 @@
 <p align="center">
- <a href="https://ibb.co/khZzw5T"><img src="https://i.ibb.co/khZzw5T/unnamed-1-1.jpg" alt="unnamed-1-1" border="0"></a>
 </p>
 
-### Hi, my name is Galina 👋
+### Hi, my name is Kesban 👋
 
 and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
 

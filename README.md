@@ -33,12 +33,6 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 <hr>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-<hr>
 
 <!--
 **Kahmedowa/Kahmedowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

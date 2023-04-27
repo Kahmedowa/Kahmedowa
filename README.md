@@ -1,8 +1,10 @@
-## Hi there, it´s Kesban 👋👩🏼‍
+<div align="center"> <h1>  Hi there! 👋👩🏼‍ </h1>
+<img src="https://user-images.githubusercontent.com/103191003/234926490-0c98c825-890c-44ef-acf9-dd25fd51a3ab.jpeg" alt="css3" width="250" height="250"/></div>
 
-![](matrix.gif)
 
-# About me
+
+
+## About me
 
 * I am a Junior full-stack web dev and constantly driven to expand my knowledge of diverse programming languages and frameworks. 👩🏼‍💻
 

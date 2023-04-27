@@ -33,8 +33,8 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 
 <div align="center">
   <a href="https://github.com/Kahmedowa">
-  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahmedowa&show_icons=true&locale=en&layout=compact" alt="kahmedowa"></p></a>
- <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kahmedowa&show_icons=true&locale=en" alt="kahmedowa"></p>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kahmedowa&show_icons=true&locale=en&layout=compact" alt="kahmedowa"></p>
+ <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kahmedowa&show_icons=true&locale=en" alt="kahmedowa"></p></a>
 </div>
 
 <!--

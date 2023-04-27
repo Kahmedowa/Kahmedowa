@@ -5,7 +5,6 @@
 
 and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
 
-<p align="center">Feel free to contact me :raising_hand:</p>
 
 <div align="center">
   <a href ="mailto:k.ahmedowa94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

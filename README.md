@@ -39,9 +39,13 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 <div align="center">
 Projects:
    - https://kahmedowa.github.io/Lucky-Game/
+  
    - https://kahmedowa.github.io/Visit-Bulgaria/
+  
    - https://kahmedowa.github.io/HotelBerlin-Buchen/
+  
    - https://kahmedowa.github.io/Umweltschutz-Blog/
+  
    - https://kahmedowa.github.io/BMI/
 </div>
 

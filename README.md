@@ -38,6 +38,7 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 
 <div>
 Projects:
+  
    - https://kahmedowa.github.io/Lucky-Game/
   
    - https://kahmedowa.github.io/Visit-Bulgaria/

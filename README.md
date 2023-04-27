@@ -1,9 +1,10 @@
 ## Hi there, it´s Kesban 👋👩🏼‍
+
 ![](matrix.gif)
 
 # About me
 
-### I am a Junior full-stack web dev and constantly driven to expand my knowledge of diverse programming languages and frameworks. 👩🏼‍💻
+* I am a Junior full-stack web dev and constantly driven to expand my knowledge of diverse programming languages and frameworks. 👩🏼‍💻
 
 
 <div align="center">

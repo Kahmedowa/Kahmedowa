@@ -1,9 +1,9 @@
-<p align="center">
-</p>
+## Hi there, it´s Kesban 👋👩🏼‍
+![](matrix.gif)
 
-### Hi, my name is Kesban 👋
+# About me
 
-and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 👩🏼‍💻
+### I am a Junior full-stack web dev and constantly driven to expand my knowledge of diverse programming languages and frameworks. 👩🏼‍💻
 
 
 <div align="center">
